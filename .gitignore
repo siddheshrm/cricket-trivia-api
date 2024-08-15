@@ -20,3 +20,5 @@ logs/
 # Ignore OS generated files
 .DS_Store
 Thumbs.db
+
+README.txt

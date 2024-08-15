@@ -1,15 +1,15 @@
-# npm init
+## Cricket Trivia API
 
-# in package.json, add "type": "module" 
+Welcome to the Cricket Trivia API! This API is designed for the [Cricket Scorecard Web App](https://scorecard.siddheshmestri.online) and is hosted on Heroku. It fetches and displays simple cricket trivia based on the current date.
 
-# npm i express
+#### Below are screenshots of the web-app with Cricket trivia
 
-# npm install cors
+- **Login Page**
+  ![Login Page](screenshots/login-page.png)
 
-# in package.json, add "engines": {"node": "20.11.1"} after dependencies
+- **Register Page**
+  ![Register Page](screenshots/register-page.png)
 
-# npm install -g heroku (to install heroku first time)
+  #### About Me
 
-# heroku login, and open in browser
-
-
+You can learn more about me and my other projects on my personal portfolio website at https://siddheshmestri.online
